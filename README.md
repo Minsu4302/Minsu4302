@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Minsu Cha 👋
+# Minsu Cha
 
-**Backend Developer** · 직접 운영하며 만난 병목을 비용과 안전성을 통제할 수 있는 자동화로 해결하고, 그 해결이 남긴 다음 질문을 따라가며 성장합니다.
+**병목을 직접 찾아 자동화로 해결하는 Backend Developer**
 
 📫 **gkdltpa9987@gmail.com** · 🌐 [Portfolio](https://portfolio-olive-chi-5y8wahaumf.vercel.app/) · 📄 [Resume](https://portfolio-olive-chi-5y8wahaumf.vercel.app/resume)
 
