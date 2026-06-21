@@ -1,6 +1,6 @@
 <div align="center">
 
-# Minsu Cha
+# Hi, I'm Min 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-olive-chi-5y8wahaumf.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://portfolio-olive-chi-5y8wahaumf.vercel.app/resume)
@@ -48,38 +48,5 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-<br>
-
-## Featured Projects
-
-### 🍽️ [바이트픽 — 실서비스 운영 (30개 점주)](https://github.com/Bite-Pick/bitepick-back)
-B2B 외식업 플랫폼 Backend를 책임지고 개발한 실서비스 프로젝트.
-- 앱스토어 다운로드 순위 163위 달성
-- 정적 분석 도구(JaCoCo, SpotBugs) 도입 — SpotBugs High/Medium 이슈 전체 해소, Branch 커버리지 19%→40.2%
-- S3 PreSigned URL 업로드 플로우로 서버 부하 감소
-
-### 🤖 [LLM 기반 자동 모니터링 시스템](https://github.com/Minsu4302/Auto-Logging-Monitoring-By-LLM)
-수동 모니터링 병목을 자연어 챗봇 하나로 해결한 운영 자동화 시스템.
-- 자연어 → Intent 분류 → 화이트리스트 검증 → 실행 파이프라인으로 임의 명령 실행 차단
-- LLM이 생성한 PromQL을 Prometheus API로 자동 검증·보정해 환각 대응
-- 실서비스(Spring Boot + OTel) 연동 완료
-
-### ⚙️ [하네스 엔지니어링 + AI Orchestration](https://github.com/Minsu4302/Harness_Infra)
-AI 에이전트 실행 환경 전체를 설계한 2레이어 인프라 (Harness + Orchestration).
-- Skeleton-of-Thought 기법으로 CoT 출력 토큰 75% 절감
-- PR 오픈 시 GitHub Actions로 다중 에이전트(review/security/test-gen) 병렬 실행
-- 멀티모델 라우팅(Claude/Gemini/GPT)으로 역할별 동적 배분
-
-### 🛰️ [TaskScope — AI Agentic Task Tracer for Multi-Agent Systems](https://github.com/Minsu4302/taskscope)
-멀티 에이전트 시스템의 task 단위 trace·비용 추적 시스템.
-- dispatcher부터 LLM 호출까지 19개 span을 단일 trace로 귀속 — propagation 정확도 100%
-- Prometheus 기반 비용 가드레일로 모델 자동 강등, 건당 비용 3.2배 절감
-- 비용 절감이 결함 탐지 품질에 미치는 영향까지 정직하게 측정해 가드레일의 한계 식별
-
-### 🏗️ [인프라 자동화 / CI·CD 파이프라인 구축](https://github.com/Minsu4302/DevOps_Infra)
-Terraform·Ansible·Kubernetes 기반 end-to-end 무인 배포 파이프라인.
-- GitLab Webhook → Jenkins → Docker Registry → K8s 롤링 배포까지 전 단계 자동화
-- MetalLB·Calico로 베어메탈 클러스터 네트워킹 구성
 
 <br>
