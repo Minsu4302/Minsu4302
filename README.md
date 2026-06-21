@@ -2,9 +2,6 @@
 
 # Minsu Cha
 
-**운영하며 만난 병목을 통제할 수 있는 자동화로 해결하는 Backend Developer**
-
-[![Email](https://img.shields.io/badge/Email-gkdltpa9987%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkdltpa9987@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-olive-chi-5y8wahaumf.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://portfolio-olive-chi-5y8wahaumf.vercel.app/resume)
 
