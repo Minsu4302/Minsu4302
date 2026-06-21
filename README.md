@@ -84,11 +84,3 @@ Terraform·Ansible·Kubernetes 기반 end-to-end 무인 배포 파이프라인.
 - MetalLB·Calico로 베어메탈 클러스터 네트워킹 구성
 
 <br>
-
-## Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu4302&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="45%" />
-
-</div>
